@@ -16,13 +16,13 @@
 
 🚀 Building real-world projects while strengthening problem-solving skills
 
-🌱 Currently learning Data Structures & Algorithms, Full Stack Development & Machine Learning
+💡 Currently learning Data Structures & Algorithms, Full Stack Development & Machine Learning
 
 📍 Based in India
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode" />
@@ -41,17 +41,14 @@
 ⭐ Personal Portfolio Website
 
 ---
+## 🌐 Connect With Me
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harika1234-git&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harika1234-git&layout=compact&theme=tokyonight"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-
----
-
-## 🔥 GitHub Streak
+## 🔥 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harika1234-git&theme=tokyonight"/>
