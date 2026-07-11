@@ -48,12 +48,16 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+
 ---
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harika1234-git&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harika1234-git&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harika1234-git&layout=compact&theme=tokyonight"/>
 </p>
+
+---
 
 ---
 
