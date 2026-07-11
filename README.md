@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bandla Harika</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | AI & Web Development Enthusiast</h3>
+<h1 align="center">👋Hi,I'm Harika Bandla</h1>
+
+<h3 align="center">
+Aspiring Software Engineer • Java Developer • AI/ML Enthusiast • Web Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bandla+Harika!;Java+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harika+Bandla;Aspiring+Software+Engineer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harika1234-git&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
 ---
