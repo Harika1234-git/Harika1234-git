@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
+--
 ## 🔥 GitHub Stats
 
 <p align="center">
@@ -68,7 +69,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href=https://linkedin.com/in/bandla-harika-0794a5347>
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
@@ -79,5 +80,8 @@
 <a href="https://github.com/Harika1234-git">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-
+<a href="https://leetcode.com/u/HARIKA_BANDLA02/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45" alt="LeetCode"/>
+</a>
+  
 </p>
