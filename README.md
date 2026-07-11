@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Harika1234-git&label=Profile%20Views&color=blue&style=for-the-badge)
 <h1 align="center">Hi 👋, I'm Harika Bandla</h1>
 
 <h3 align="center">Aspiring Software Engineer | Java Developer | AI/ML Enthusiast | Web Developer</h3>
