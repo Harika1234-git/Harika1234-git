@@ -1,40 +1,32 @@
-<h1 align="center">👋Hi,I'm Harika Bandla</h1>
+<h1 align="center">Hi 👋, I'm Harika Bandla</h1>
 
-<h3 align="center">
-Aspiring Software Engineer • Java Developer • AI/ML Enthusiast • Web Developer
-</h3>
+<h3 align="center">Aspiring Software Engineer | Java Developer | AI/ML Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harika+Bandla;Aspiring+Software+Engineer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harika1234-git&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AI%2FML+Enthusiast;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE Student passionate about Software Development
-- ☕ Java Developer | 🤖 AI/ML Enthusiast | 🌐 Web Developer
-- 🚀 Building innovative projects and strengthening problem-solving skills
-- 🌱 Continuously learning DSA, Full Stack Development & AI/ML
-- 📍 Based in India
-  
+🎓 B.Tech CSE Student passionate about Software Development
+
+☕ Java Developer | 🤖 AI/ML Enthusiast | 🌐 Web Developer
+
+🚀 Building real-world projects while strengthening problem-solving skills
+
+🌱 Currently learning Data Structures & Algorithms, Full Stack Development & Machine Learning
+
+📍 Based in India
+
 ---
 
 ## 🛠 Tech Stack
 
-💙 Java
-
-🐍 Python
-
-🌐 HTML | CSS | JavaScript
-
-🛢️ MySQL
-
-🔧 Git & GitHub
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode" />
+</p>
 
 ---
 
@@ -44,40 +36,51 @@ Aspiring Software Engineer • Java Developer • AI/ML Enthusiast • Web Devel
 
 ⭐ Lung Cancer Detection using Machine Learning
 
-⭐ Vehicle Marketplace
+⭐ Second-Hand Vehicle Marketplace
 
-⭐ Portfolio Website
+⭐ Personal Portfolio Website
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Harika1234-git&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harika1234-git&layout=compact&theme=tokyonight)
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harika1234-git&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harika1234-git&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harika1234-git&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harika1234-git&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Harika1234-git&theme=onedark)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harika1234-git&theme=onedark&margin-w=15"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 💙 Let's Connect and Grow Together!
 
-📧 bandlaharika1999@gmail.com
+<p align="left">
 
-💼 linkedin.com/in/bandla-harika-0794a5347
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
----
+<a href="mailto:bandlaharika1999@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
 
-### 💡 Quote
+<a href="https://github.com/Harika1234-git">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
-> "Every project is a step toward becoming a better developer."
+</p>
